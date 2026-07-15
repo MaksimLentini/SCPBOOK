@@ -1,0 +1,8 @@
+{
+  "name": "scp-catalog",
+  "version": "1.0.0",
+  "description": "SCP Foundation Catalog",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
